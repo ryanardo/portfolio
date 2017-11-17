@@ -11,7 +11,7 @@ _Portfolio page to display info about Ryan G Ferris, who he is, and what skills/
 ## Setup/Installation Requirements
 
 * Download and install a web browser
-* Click on the following [link](/https://ryanglenferris.github.io/portfolio) to view Ryan G Ferris online portfolio
+* Click on the following [link](https://ryanglenferris.github.io/portfolio) to view Ryan G Ferris online portfolio
 
 ## Known Bugs
 
