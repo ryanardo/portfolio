@@ -1,7 +1,34 @@
+<<<<<<< HEAD
+=======
+.column_right {
+  float: right;
+}
+
+>>>>>>> style2
 .column_left {
   float: left;
 }
 
+<<<<<<< HEAD
 .column_right {
   float: right;
 }
+=======
+.left {
+  float: left;
+  border: black;
+  padding: 10px;
+}
+
+.right {
+  float: right;
+}
+
+.project {
+  color: black;
+}
+
+h1 .a {
+  color: aqua;
+}
+>>>>>>> style2
