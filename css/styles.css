@@ -8,8 +8,18 @@
 
 .left {
   float: left;
+  border: black;
+  padding: 10px;
 }
 
 .right {
   float: right;
+}
+
+.project {
+  color: black;
+}
+
+h1 .a {
+  color: aqua;
 }
